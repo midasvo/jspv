@@ -1,0 +1,65 @@
+
+body, html {
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	background-color: #C5E6C8;
+
+}
+
+#main {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #DCFADE;
+}
+
+#grid {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #C5E6C8;
+
+}
+
+.grid {
+	margin-left: -10px;
+	width: 80%;
+	height: auto;
+	text-align: center;
+}
+
+.grid_unit img {
+    width: auto;
+    height: 150px;
+
+}
+/* add with and height to ingrid class */
+.grid_unit {
+	width: 100px;
+	height: auto;
+
+}
+
+#zoom {
+	width: 80%;
+	height: auto;
+	background-color: #C5E6C8;
+	margin-left: auto;
+	margin-right: auto;
+
+	text-align: center;
+
+}
+
+#zoom img {
+	width: auto;
+	height: 100%;
+	border: 20px solid #DCFADE;
+}
+#info {
+	background-color: #C5E6C8;
+
+	width: 100%;
+	height: auto;
+	text-align: center;
+	float: top;
+}
